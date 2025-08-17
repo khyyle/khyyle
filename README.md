@@ -7,13 +7,7 @@ I like building scalable models that recover signal from messy data. I’m parti
 - uncertainty & regularization
 - quantitative finance--factors, risk decomposition, robust decision rules
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyyle
-&layout=compact
-&langs_count=10
-&hide=Jupyter%20Notebook
-&theme=github_dark
-&cache_seconds=1800
-&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyyle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **khyyle/khyyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
